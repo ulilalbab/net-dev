@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nebula/.dotnet/store/|arch|/|tfm|",
+      "/home/nebula/.nuget/packages"
+    ]
+  }
+}

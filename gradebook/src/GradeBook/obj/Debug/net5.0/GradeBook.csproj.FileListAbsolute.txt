@@ -1,0 +1,16 @@
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.AssemblyReference.cache
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/home/nebula/Documents/GitHub-Ulil/net-dev/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
